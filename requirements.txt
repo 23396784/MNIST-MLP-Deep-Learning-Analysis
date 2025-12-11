@@ -1,0 +1,24 @@
+# MNIST Neural Network Analysis
+# Python Dependencies
+
+# Deep Learning
+tensorflow>=2.15.0
+keras>=3.0.0
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning Utilities
+scikit-learn>=1.3.0
+
+# Jupyter Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Progress bars
+tqdm>=4.65.0
